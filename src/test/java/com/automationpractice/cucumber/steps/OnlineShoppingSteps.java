@@ -8,6 +8,7 @@ import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
 
 import java.util.List;
+import java.util.Map;
 
 
 public class OnlineShoppingSteps {
@@ -113,4 +114,26 @@ public class OnlineShoppingSteps {
     }
 
 
+    @And("^I add below product to cart using Maps$")
+    public void iAddBelowProductToCartUsingMaps(DataTable dataTable) {
+        List<Map<String, String>> userList = dataTable.asMaps(String.class, String.class);
+        for (int i = 0; i < userList.size(); i++) {
+            new HomePage().navigateToHomePage();
+            new HomePage().selectItemFromMainMenu(userList.get(i).get("category"));
+            new HomePage().selectItemsFromInnerMenu(userList.get(i).get("subCategory"));
+            new ProductPage().selectProduct(userList.get(i).get("name"));
+            new ProductPage().selectQuantity(userList.get(i).get("quantity"));
+            new SummerDressesPage().addToCart();
+            new ShoppingCartPage().clickOnContinueShoppingButton();
+        }
+    }
+
+    @Then("^I shall validate shopping cart as below using Maps$")
+    public void iShallValidateShoppingCartAsBelowUsingMaps(DataTable dataTable) {
+        List<Map<String, String>> userList = dataTable.asMaps(String.class, String.class);
+        for (int i = 0; i < userList.size(); i++)  {
+            new ShoppingCartPage().clickOnShoppingCart();
+            new ShoppingCartPage().verifyShoppingCart(userList.get(i).get("name"), userList.get(i).get("model"), userList.get(i).get("quantity"));
+        }
+    }
 }

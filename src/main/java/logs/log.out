@@ -334,3 +334,100 @@ java.lang.IllegalStateException: cannot be started once stopped
 2021-12-29 10:12:981 INFO  ContactPage :61 - attach a file : <br>
 2021-12-29 10:12:31 INFO  ContactPage :66 - input refund message : Please process a refund<br>
 2021-12-29 10:12:127 INFO  ContactPage :71 - click on send button : [[ChromeDriver: chrome on WINDOWS (7771d9272abf8b682b3a550644c28a8f)] -> xpath: //button[@id='submitMessage']]<br>
+2021-12-29 13:12:236 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (4c7dc02cb0c9da823bc2784a0f6d0471)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:640 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 13:12:399 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 13:12:471 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (8d4292340899744fabb8bfa4e4152509)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:637 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 13:12:912 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 13:12:488 INFO  HomePage :42 - selecting an item from main menu : Dresses<br>
+2021-12-29 13:12:605 INFO  HomePage :57 - selecting an item from inner menu : CASUAL DRESSES<br>
+2021-12-29 13:12:117 INFO  ProductPage :38 - selecting an item from menu : Printed Dress<br>
+2021-12-29 13:12:122 INFO  ProductPage :53 - selecting quantity : 2<br>
+2021-12-29 13:12:236 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (8d4292340899744fabb8bfa4e4152509)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 13:12:306 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (8d4292340899744fabb8bfa4e4152509)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 13:12:383 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 13:12:617 INFO  HomePage :42 - selecting an item from main menu : Women<br>
+2021-12-29 13:12:145 INFO  HomePage :57 - selecting an item from inner menu : TOPS<br>
+2021-12-29 13:12:500 INFO  ProductPage :44 - selecting an item from menu : Faded Short Sleeve T-shirts<br>
+2021-12-29 13:12:504 INFO  ProductPage :53 - selecting quantity : 3<br>
+2021-12-29 13:12:623 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (8d4292340899744fabb8bfa4e4152509)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 13:12:686 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (8d4292340899744fabb8bfa4e4152509)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 13:12:287 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (3cbc048a41353cf377fec9b5dca798ff)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:717 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 13:12:330 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 13:12:729 INFO  HomePage :42 - selecting an item from main menu : Dresses<br>
+2021-12-29 13:12:622 INFO  HomePage :57 - selecting an item from inner menu : CASUAL DRESSES<br>
+2021-12-29 13:12:449 INFO  ProductPage :38 - selecting an item from menu : Printed Dress<br>
+2021-12-29 13:12:454 INFO  ProductPage :53 - selecting quantity : 2<br>
+2021-12-29 13:12:579 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (3cbc048a41353cf377fec9b5dca798ff)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 13:12:669 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (3cbc048a41353cf377fec9b5dca798ff)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 13:12:755 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 13:12:671 INFO  HomePage :42 - selecting an item from main menu : Women<br>
+2021-12-29 13:12:532 INFO  HomePage :57 - selecting an item from inner menu : TOPS<br>
+2021-12-29 13:12:738 INFO  ProductPage :44 - selecting an item from menu : Faded Short Sleeve T-shirts<br>
+2021-12-29 13:12:746 INFO  ProductPage :53 - selecting quantity : 3<br>
+2021-12-29 13:12:853 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (3cbc048a41353cf377fec9b5dca798ff)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 13:12:914 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (3cbc048a41353cf377fec9b5dca798ff)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 13:12:357 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:61 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 13:12:49 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 13:12:495 INFO  HomePage :42 - selecting an item from main menu : Dresses<br>
+2021-12-29 13:12:640 INFO  HomePage :57 - selecting an item from inner menu : CASUAL DRESSES<br>
+2021-12-29 13:12:932 INFO  ProductPage :38 - selecting an item from menu : Printed Dress<br>
+2021-12-29 13:12:936 INFO  ProductPage :53 - selecting quantity : 2<br>
+2021-12-29 13:12:54 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 13:12:137 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 13:12:839 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 13:12:265 INFO  HomePage :42 - selecting an item from main menu : Women<br>
+2021-12-29 13:12:717 INFO  HomePage :57 - selecting an item from inner menu : TOPS<br>
+2021-12-29 13:12:940 INFO  ProductPage :44 - selecting an item from menu : Faded Short Sleeve T-shirts<br>
+2021-12-29 13:12:946 INFO  ProductPage :53 - selecting quantity : 3<br>
+2021-12-29 13:12:64 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 13:12:128 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 13:12:306 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-29 13:12:807 INFO  ShoppingCartPage :87 - verifying product name : Printed Dress<br>
+2021-12-29 13:12:874 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_3<br>
+2021-12-29 13:12:973 INFO  ShoppingCartPage :101 - verifying product quantity : 2<br>
+2021-12-29 13:12:994 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-29 13:12:90 INFO  ShoppingCartPage :87 - verifying product name : Faded Short Sleeve T-shirts<br>
+2021-12-29 13:12:153 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_1<br>
+2021-12-29 13:12:233 INFO  ShoppingCartPage :101 - verifying product quantity : 3<br>
+2021-12-29 13:12:255 INFO  ShoppingCartPage :106 - click on checkout button : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //a[@class='button btn btn-default standard-checkout button-medium']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 13:12:306 INFO  ShoppingCartPage :111 - click on checkout button on address page : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //button[@name='processAddress']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 13:12:544 INFO  ShoppingCartPage :116 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> id: uniform-cgv]<br>
+2021-12-29 13:12:621 INFO  ShoppingCartPage :121 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //button[@name='processCarrier']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 13:12:699 INFO  ShoppingCartPage :126 - click on pay by check button : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //div[@id='HOOK_PAYMENT']//p//a[1][contains(.,'Pay by check (order processing will be longer)')]]<br>
+2021-12-29 13:12:567 INFO  ShoppingCartPage :131 - click on confirm my order : [[ChromeDriver: chrome on WINDOWS (0a6aa260be43a42d63b4342786dcd8ba)] -> xpath: //span[normalize-space()='I confirm my order']]<br>
+2021-12-29 13:12:792 INFO  ShoppingCartPage :136 - verifying the order is completed : Your order on My Store is complete.<br>
+2021-12-29 13:12:624 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 13:12:14 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 13:12:594 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 13:12:427 INFO  HomePage :42 - selecting an item from main menu : Dresses<br>
+2021-12-29 13:12:919 INFO  HomePage :57 - selecting an item from inner menu : CASUAL DRESSES<br>
+2021-12-29 13:12:590 INFO  ProductPage :38 - selecting an item from menu : Printed Dress<br>
+2021-12-29 13:12:598 INFO  ProductPage :53 - selecting quantity : 2<br>
+2021-12-29 13:12:715 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 13:12:797 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 13:12:251 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 13:12:761 INFO  HomePage :42 - selecting an item from main menu : Women<br>
+2021-12-29 13:12:390 INFO  HomePage :57 - selecting an item from inner menu : TOPS<br>
+2021-12-29 13:12:704 INFO  ProductPage :44 - selecting an item from menu : Faded Short Sleeve T-shirts<br>
+2021-12-29 13:12:706 INFO  ProductPage :53 - selecting quantity : 3<br>
+2021-12-29 13:12:822 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 13:12:884 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 13:12:867 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-29 13:12:269 INFO  ShoppingCartPage :87 - verifying product name : Printed Dress<br>
+2021-12-29 13:12:307 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_3<br>
+2021-12-29 13:12:391 INFO  ShoppingCartPage :101 - verifying product quantity : 2<br>
+2021-12-29 13:12:421 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-29 13:12:890 INFO  ShoppingCartPage :87 - verifying product name : Faded Short Sleeve T-shirts<br>
+2021-12-29 13:12:943 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_1<br>
+2021-12-29 13:12:05 INFO  ShoppingCartPage :101 - verifying product quantity : 3<br>
+2021-12-29 13:12:22 INFO  ShoppingCartPage :106 - click on checkout button : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //a[@class='button btn btn-default standard-checkout button-medium']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 13:12:985 INFO  ShoppingCartPage :111 - click on checkout button on address page : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //button[@name='processAddress']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 13:12:983 INFO  ShoppingCartPage :116 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> id: uniform-cgv]<br>
+2021-12-29 13:12:49 INFO  ShoppingCartPage :121 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //button[@name='processCarrier']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 13:12:69 INFO  ShoppingCartPage :126 - click on pay by check button : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //div[@id='HOOK_PAYMENT']//p//a[1][contains(.,'Pay by check (order processing will be longer)')]]<br>
+2021-12-29 13:12:251 INFO  ShoppingCartPage :131 - click on confirm my order : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //span[normalize-space()='I confirm my order']]<br>
+2021-12-29 13:12:374 INFO  ShoppingCartPage :136 - verifying the order is completed : Your order on My Store is complete.<br>
