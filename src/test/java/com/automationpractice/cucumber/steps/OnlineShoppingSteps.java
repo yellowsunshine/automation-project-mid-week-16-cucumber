@@ -62,6 +62,7 @@ public class OnlineShoppingSteps {
         List<List<String>> data = table.raw();
         for (int i = 1; i < data.size(); i++) {
             new HomePage().navigateToHomePage();
+            //  getting data from row 1 and column 0
             new HomePage().selectItemFromMainMenu(data.get(i).get(0));
             new HomePage().selectItemsFromInnerMenu(data.get(i).get(1));
             new ProductPage().selectProduct(data.get(i).get(2));
@@ -74,6 +75,8 @@ public class OnlineShoppingSteps {
 
     @Then("^I shall validate shopping cart as below$")
     public void iShallValidateShoppingCartAsBelow(DataTable table) {
+        //convert data table to a raw table, this map will return a list of map (of string as key and string as value)
+        // raw methods return type is List<List<String>>
         List<List<String>> data1 = table.raw();
         for (int i = 1; i < 3; i++) {
             new ShoppingCartPage().clickOnShoppingCart();
@@ -116,12 +119,20 @@ public class OnlineShoppingSteps {
 
     @And("^I add below product to cart using Maps$")
     public void iAddBelowProductToCartUsingMaps(DataTable dataTable) {
+        //convert data table to map, this map will return a list of map (of string as key and string as value)
+        //first row acts as a header
         List<Map<String, String>> userList = dataTable.asMaps(String.class, String.class);
         for (int i = 0; i < userList.size(); i++) {
             new HomePage().navigateToHomePage();
+            //retrieving item from row (index number) of the column called category
+            //each and every row value will be mapped with respective column headers
+            //There are 3 rows, from row # 0 get me the value of the key called category
             new HomePage().selectItemFromMainMenu(userList.get(i).get("category"));
+            //There are 3 rows, from row # 0 get me the value of the key called subCategory
             new HomePage().selectItemsFromInnerMenu(userList.get(i).get("subCategory"));
+            //There are 3 rows, from row # 0 get me the value of the key called name
             new ProductPage().selectProduct(userList.get(i).get("name"));
+            //There are 3 rows, from row # 0 get me the value of the key called quantity
             new ProductPage().selectQuantity(userList.get(i).get("quantity"));
             new SummerDressesPage().addToCart();
             new ShoppingCartPage().clickOnContinueShoppingButton();
@@ -130,9 +141,11 @@ public class OnlineShoppingSteps {
 
     @Then("^I shall validate shopping cart as below using Maps$")
     public void iShallValidateShoppingCartAsBelowUsingMaps(DataTable dataTable) {
+        //convert data table to map, this map will return a list of map (of string as key and string as value)
         List<Map<String, String>> userList = dataTable.asMaps(String.class, String.class);
         for (int i = 0; i < userList.size(); i++)  {
             new ShoppingCartPage().clickOnShoppingCart();
+            //from row 0 get values of keys called name, model and quantity
             new ShoppingCartPage().verifyShoppingCart(userList.get(i).get("name"), userList.get(i).get("model"), userList.get(i).get("quantity"));
         }
     }

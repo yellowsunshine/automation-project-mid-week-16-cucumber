@@ -431,3 +431,13 @@ java.lang.IllegalStateException: cannot be started once stopped
 2021-12-29 13:12:69 INFO  ShoppingCartPage :126 - click on pay by check button : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //div[@id='HOOK_PAYMENT']//p//a[1][contains(.,'Pay by check (order processing will be longer)')]]<br>
 2021-12-29 13:12:251 INFO  ShoppingCartPage :131 - click on confirm my order : [[ChromeDriver: chrome on WINDOWS (e3680e543a8fdc8cb2fc3c3d26aef586)] -> xpath: //span[normalize-space()='I confirm my order']]<br>
 2021-12-29 13:12:374 INFO  ShoppingCartPage :136 - verifying the order is completed : Your order on My Store is complete.<br>
+2021-12-29 15:12:471 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (022087517b21ca519cb35beb3962e7c5)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 15:12:849 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (baf48a76d4edaeb3f8996bf206efaaf4)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 15:12:570 INFO  AuthenticationPage :42 - entering email : abcd1234987@gmail.com<br>
+2021-12-29 15:12:845 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (66e7476cd0f95bdafc1416d7c633c96f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 15:12:547 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 15:12:80 INFO  MyAccountPage :35 - clicking on my addresses : [[ChromeDriver: chrome on WINDOWS (66e7476cd0f95bdafc1416d7c633c96f)] -> xpath: //a[@title='Addresses']]<br>
+2021-12-29 15:12:322 INFO  MyAddressesPage :25 - verifying my address : <br>
+2021-12-29 15:12:970 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (cb83bf214e502c01c520f23902adb829)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 15:12:972 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 15:12:248 INFO  HomePage :49 - navigating back to home page : <br>
