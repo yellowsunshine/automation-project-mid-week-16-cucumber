@@ -1,0 +1,336 @@
+2021-12-28 20:12:620 INFO  HomePage :56 - clicking on sign in button : Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Sign in']'
+2021-12-28 20:12:733 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ab212c98df8807c76f1f2a437a856e02)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 20:12:10 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ea8b2b87ee53dad0cab2fe3e55bd6b9d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 20:12:13 INFO  CreateAccountPage :95 - verifying sign up page message : Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='alert alert-danger'] p'
+2021-12-28 20:12:167 INFO  CreateAccountPage :95 - verifying sign up page message : Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='alert alert-danger'] p'
+2021-12-28 20:12:850 INFO  CreateAccountPage :95 - verifying sign up page message : Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='alert alert-danger'] p'
+2021-12-28 20:12:937 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (125c824fdea552e05a2454291a243629)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 20:12:971 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (2df9d55b1d3b6893d05e41b765ac476c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 20:12:00 INFO  AuthenticationPage :30 - entering random email : <br>
+2021-12-28 20:12:500 INFO  AuthenticationPage :36 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (2df9d55b1d3b6893d05e41b765ac476c)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 20:12:878 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (2df9d55b1d3b6893d05e41b765ac476c)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 20:12:06 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (2df9d55b1d3b6893d05e41b765ac476c)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 20:12:105 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (2df9d55b1d3b6893d05e41b765ac476c)] -> xpath: //input[@id='passwd']]
+2021-12-28 20:12:209 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (2df9d55b1d3b6893d05e41b765ac476c)] -> xpath: //input[@id='address1']]
+2021-12-28 20:12:346 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (2df9d55b1d3b6893d05e41b765ac476c)] -> xpath: //input[@id='city']]
+2021-12-28 20:12:538 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (2df9d55b1d3b6893d05e41b765ac476c)] -> xpath: //select[@id='id_state']]
+2021-12-28 20:12:672 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (2df9d55b1d3b6893d05e41b765ac476c)] -> xpath: //input[@id='postcode']]
+2021-12-28 20:12:750 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (2df9d55b1d3b6893d05e41b765ac476c)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 20:12:344 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (08b0fe6e9e98bccc36730f52c09eb9e2)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 20:12:546 INFO  AuthenticationPage :30 - entering email : <br>
+2021-12-28 20:12:17 INFO  AuthenticationPage :36 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (08b0fe6e9e98bccc36730f52c09eb9e2)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 20:12:945 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (fd85fbd7f8fa10984ffebccb1b4b8196)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 20:12:159 INFO  AuthenticationPage :30 - entering email : <br>
+2021-12-28 20:12:717 INFO  AuthenticationPage :36 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (fd85fbd7f8fa10984ffebccb1b4b8196)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 20:12:360 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (fd85fbd7f8fa10984ffebccb1b4b8196)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 20:12:481 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (fd85fbd7f8fa10984ffebccb1b4b8196)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 20:12:576 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (fd85fbd7f8fa10984ffebccb1b4b8196)] -> xpath: //input[@id='passwd']]
+2021-12-28 20:12:692 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (fd85fbd7f8fa10984ffebccb1b4b8196)] -> xpath: //input[@id='address1']]
+2021-12-28 20:12:826 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (fd85fbd7f8fa10984ffebccb1b4b8196)] -> xpath: //input[@id='city']]
+2021-12-28 20:12:17 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (fd85fbd7f8fa10984ffebccb1b4b8196)] -> xpath: //select[@id='id_state']]
+2021-12-28 20:12:128 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (fd85fbd7f8fa10984ffebccb1b4b8196)] -> xpath: //input[@id='postcode']]
+2021-12-28 20:12:224 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (fd85fbd7f8fa10984ffebccb1b4b8196)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 21:12:750 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (0400b3aafa3f55494996287f1a329769)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 21:12:200 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 21:12:362 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (0400b3aafa3f55494996287f1a329769)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 21:12:677 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (0400b3aafa3f55494996287f1a329769)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 21:12:791 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (0400b3aafa3f55494996287f1a329769)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 21:12:882 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (0400b3aafa3f55494996287f1a329769)] -> xpath: //input[@id='passwd']]
+2021-12-28 21:12:00 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (0400b3aafa3f55494996287f1a329769)] -> xpath: //input[@id='address1']]
+2021-12-28 21:12:177 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (0400b3aafa3f55494996287f1a329769)] -> xpath: //input[@id='city']]
+2021-12-28 21:12:380 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (0400b3aafa3f55494996287f1a329769)] -> xpath: //select[@id='id_state']]
+2021-12-28 21:12:525 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (0400b3aafa3f55494996287f1a329769)] -> xpath: //input[@id='postcode']]
+2021-12-28 21:12:647 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (0400b3aafa3f55494996287f1a329769)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 21:12:673 INFO  CreateAccountPage :95 - verifying sign up page message : Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='alert alert-danger'] p'
+2021-12-28 21:12:604 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (2873ea29ed1055826c65e955c9556a0d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 21:12:41 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 21:12:245 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (2873ea29ed1055826c65e955c9556a0d)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 21:12:513 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (2873ea29ed1055826c65e955c9556a0d)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 21:12:630 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (2873ea29ed1055826c65e955c9556a0d)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 21:12:736 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (2873ea29ed1055826c65e955c9556a0d)] -> xpath: //input[@id='passwd']]
+2021-12-28 21:12:853 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (2873ea29ed1055826c65e955c9556a0d)] -> xpath: //input[@id='address1']]
+2021-12-28 21:12:998 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (2873ea29ed1055826c65e955c9556a0d)] -> xpath: //input[@id='city']]
+2021-12-28 21:12:183 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (2873ea29ed1055826c65e955c9556a0d)] -> xpath: //select[@id='id_state']]
+2021-12-28 21:12:309 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (2873ea29ed1055826c65e955c9556a0d)] -> xpath: //input[@id='postcode']]
+2021-12-28 21:12:412 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (2873ea29ed1055826c65e955c9556a0d)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 21:12:67 INFO  CreateAccountPage :95 - verifying sign up page message : Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='alert alert-danger'] p'
+2021-12-28 21:12:21 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (f7aa6cce5905fae264c7adfe09c1a241)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 21:12:428 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 21:12:593 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (f7aa6cce5905fae264c7adfe09c1a241)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 21:12:865 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (f7aa6cce5905fae264c7adfe09c1a241)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 21:12:990 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (f7aa6cce5905fae264c7adfe09c1a241)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 21:12:96 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (f7aa6cce5905fae264c7adfe09c1a241)] -> xpath: //input[@id='passwd']]
+2021-12-28 21:12:202 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (f7aa6cce5905fae264c7adfe09c1a241)] -> xpath: //input[@id='address1']]
+2021-12-28 21:12:346 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (f7aa6cce5905fae264c7adfe09c1a241)] -> xpath: //input[@id='city']]
+2021-12-28 21:12:514 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (f7aa6cce5905fae264c7adfe09c1a241)] -> xpath: //select[@id='id_state']]
+2021-12-28 21:12:638 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (f7aa6cce5905fae264c7adfe09c1a241)] -> xpath: //input[@id='postcode']]
+2021-12-28 21:12:733 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (f7aa6cce5905fae264c7adfe09c1a241)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 21:12:441 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (a90e8cd71f6042a860c402f1ad3a81df)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 21:12:84 INFO  CreateAccountPage :95 - verifying sign up page message : Proxy element for: DefaultElementLocator 'By.cssSelector: div[class='alert alert-danger'] p'
+2021-12-28 21:12:718 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (3e638323392b6b10cd720cd8aa7bc85c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 21:12:157 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 21:12:333 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (3e638323392b6b10cd720cd8aa7bc85c)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 21:12:811 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (3e638323392b6b10cd720cd8aa7bc85c)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 21:12:913 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (3e638323392b6b10cd720cd8aa7bc85c)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 21:12:10 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (3e638323392b6b10cd720cd8aa7bc85c)] -> xpath: //input[@id='passwd']]
+2021-12-28 21:12:126 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (3e638323392b6b10cd720cd8aa7bc85c)] -> xpath: //input[@id='address1']]
+2021-12-28 21:12:243 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (3e638323392b6b10cd720cd8aa7bc85c)] -> xpath: //input[@id='city']]
+2021-12-28 21:12:424 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (3e638323392b6b10cd720cd8aa7bc85c)] -> xpath: //select[@id='id_state']]
+2021-12-28 21:12:550 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (3e638323392b6b10cd720cd8aa7bc85c)] -> xpath: //input[@id='postcode']]
+2021-12-28 21:12:662 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (3e638323392b6b10cd720cd8aa7bc85c)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 21:12:659 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (182f4b537b7238a298d5a6d7295a2352)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:526 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (518142f529b95a92f22cd410a1ec8e20)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:938 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 22:12:109 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (518142f529b95a92f22cd410a1ec8e20)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 22:12:412 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (518142f529b95a92f22cd410a1ec8e20)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 22:12:523 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (518142f529b95a92f22cd410a1ec8e20)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 22:12:639 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (518142f529b95a92f22cd410a1ec8e20)] -> xpath: //input[@id='passwd']]
+2021-12-28 22:12:762 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (518142f529b95a92f22cd410a1ec8e20)] -> xpath: //input[@id='address1']]
+2021-12-28 22:12:909 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (518142f529b95a92f22cd410a1ec8e20)] -> xpath: //input[@id='city']]
+2021-12-28 22:12:103 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (518142f529b95a92f22cd410a1ec8e20)] -> xpath: //select[@id='id_state']]
+2021-12-28 22:12:212 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (518142f529b95a92f22cd410a1ec8e20)] -> xpath: //input[@id='postcode']]
+2021-12-28 22:12:307 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (518142f529b95a92f22cd410a1ec8e20)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 22:12:527 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (6c8ca11ef3a7b13ff9c05be5b198180b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:46 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (4398fc175720cb90f2af4dea4e59ffa4)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:350 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 22:12:531 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (4398fc175720cb90f2af4dea4e59ffa4)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 22:12:865 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (4398fc175720cb90f2af4dea4e59ffa4)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 22:12:983 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (4398fc175720cb90f2af4dea4e59ffa4)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 22:12:82 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (4398fc175720cb90f2af4dea4e59ffa4)] -> xpath: //input[@id='passwd']]
+2021-12-28 22:12:196 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (4398fc175720cb90f2af4dea4e59ffa4)] -> xpath: //input[@id='address1']]
+2021-12-28 22:12:318 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (4398fc175720cb90f2af4dea4e59ffa4)] -> xpath: //input[@id='city']]
+2021-12-28 22:12:496 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (4398fc175720cb90f2af4dea4e59ffa4)] -> xpath: //select[@id='id_state']]
+2021-12-28 22:12:633 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (4398fc175720cb90f2af4dea4e59ffa4)] -> xpath: //input[@id='postcode']]
+2021-12-28 22:12:733 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (4398fc175720cb90f2af4dea4e59ffa4)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 22:12:519 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (58ccbde45dfdf8cccfd9b5b3ceb167ce)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:257 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (6ecc7ee0451de1d986b9c88e89466ecf)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:615 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 22:12:767 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (6ecc7ee0451de1d986b9c88e89466ecf)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 22:12:43 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (6ecc7ee0451de1d986b9c88e89466ecf)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 22:12:170 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (6ecc7ee0451de1d986b9c88e89466ecf)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 22:12:267 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (6ecc7ee0451de1d986b9c88e89466ecf)] -> xpath: //input[@id='passwd']]
+2021-12-28 22:12:382 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (6ecc7ee0451de1d986b9c88e89466ecf)] -> xpath: //input[@id='address1']]
+2021-12-28 22:12:525 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (6ecc7ee0451de1d986b9c88e89466ecf)] -> xpath: //input[@id='city']]
+2021-12-28 22:12:706 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (6ecc7ee0451de1d986b9c88e89466ecf)] -> xpath: //select[@id='id_state']]
+2021-12-28 22:12:823 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (6ecc7ee0451de1d986b9c88e89466ecf)] -> xpath: //input[@id='postcode']]
+2021-12-28 22:12:912 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (6ecc7ee0451de1d986b9c88e89466ecf)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 22:12:471 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ddda5255eb1bf38a0dd671fff25cbbed)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:615 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (e75c9b38609f9fd9812bd4ea13d7b521)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:989 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 22:12:147 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (e75c9b38609f9fd9812bd4ea13d7b521)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 22:12:394 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (e75c9b38609f9fd9812bd4ea13d7b521)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 22:12:510 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (e75c9b38609f9fd9812bd4ea13d7b521)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 22:12:610 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (e75c9b38609f9fd9812bd4ea13d7b521)] -> xpath: //input[@id='passwd']]
+2021-12-28 22:12:724 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (e75c9b38609f9fd9812bd4ea13d7b521)] -> xpath: //input[@id='address1']]
+2021-12-28 22:12:914 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (e75c9b38609f9fd9812bd4ea13d7b521)] -> xpath: //input[@id='city']]
+2021-12-28 22:12:143 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (e75c9b38609f9fd9812bd4ea13d7b521)] -> xpath: //select[@id='id_state']]
+2021-12-28 22:12:312 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (e75c9b38609f9fd9812bd4ea13d7b521)] -> xpath: //input[@id='postcode']]
+2021-12-28 22:12:408 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (e75c9b38609f9fd9812bd4ea13d7b521)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 22:12:973 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (4eb3f2aaca9eff319bf16f8fd5e0093b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:139 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (b19c096a1f38d8eb7ebd994ebc443a92)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:514 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 22:12:667 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (b19c096a1f38d8eb7ebd994ebc443a92)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 22:12:163 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (b19c096a1f38d8eb7ebd994ebc443a92)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 22:12:293 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (b19c096a1f38d8eb7ebd994ebc443a92)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 22:12:439 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (b19c096a1f38d8eb7ebd994ebc443a92)] -> xpath: //input[@id='passwd']]
+2021-12-28 22:12:588 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (b19c096a1f38d8eb7ebd994ebc443a92)] -> xpath: //input[@id='address1']]
+2021-12-28 22:12:848 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (b19c096a1f38d8eb7ebd994ebc443a92)] -> xpath: //input[@id='city']]
+2021-12-28 22:12:996 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (b19c096a1f38d8eb7ebd994ebc443a92)] -> xpath: //select[@id='id_state']]
+2021-12-28 22:12:120 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (b19c096a1f38d8eb7ebd994ebc443a92)] -> xpath: //input[@id='postcode']]
+2021-12-28 22:12:248 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (b19c096a1f38d8eb7ebd994ebc443a92)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 22:12:25 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (eba066535539725df9154b341de0c033)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:81 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (1e0b1011c3fdc1ea1900ed24972cd914)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:443 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 22:12:589 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (1e0b1011c3fdc1ea1900ed24972cd914)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 22:12:75 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (1e0b1011c3fdc1ea1900ed24972cd914)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 22:12:192 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (1e0b1011c3fdc1ea1900ed24972cd914)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 22:12:293 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (1e0b1011c3fdc1ea1900ed24972cd914)] -> xpath: //input[@id='passwd']]
+2021-12-28 22:12:409 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (1e0b1011c3fdc1ea1900ed24972cd914)] -> xpath: //input[@id='address1']]
+2021-12-28 22:12:553 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (1e0b1011c3fdc1ea1900ed24972cd914)] -> xpath: //input[@id='city']]
+2021-12-28 22:12:733 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (1e0b1011c3fdc1ea1900ed24972cd914)] -> xpath: //select[@id='id_state']]
+2021-12-28 22:12:857 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (1e0b1011c3fdc1ea1900ed24972cd914)] -> xpath: //input[@id='postcode']]
+2021-12-28 22:12:961 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (1e0b1011c3fdc1ea1900ed24972cd914)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 22:12:42 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (4a0d5b6b366d922e0ae41980d24f855d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:684 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (821a49cae92d3f8388eccac51d95c2e7)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:477 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 22:12:617 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (821a49cae92d3f8388eccac51d95c2e7)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 22:12:750 INFO  CreateAccountPage :62 - Entering firstnameProxy element for: DefaultElementLocator 'By.xpath: //input[@id='customer_firstname']'
+2021-12-28 22:12:272 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (460193dcfa9175c515370e8e0943e2b1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:439 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (a399f2d96c1e5231d7533733a7253bc9)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:420 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 22:12:933 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (a399f2d96c1e5231d7533733a7253bc9)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 22:12:203 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (a399f2d96c1e5231d7533733a7253bc9)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 22:12:331 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (a399f2d96c1e5231d7533733a7253bc9)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 22:12:428 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (a399f2d96c1e5231d7533733a7253bc9)] -> xpath: //input[@id='passwd']]
+2021-12-28 22:12:544 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (a399f2d96c1e5231d7533733a7253bc9)] -> xpath: //input[@id='address1']]
+2021-12-28 22:12:746 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (a399f2d96c1e5231d7533733a7253bc9)] -> xpath: //input[@id='city']]
+2021-12-28 22:12:02 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (a399f2d96c1e5231d7533733a7253bc9)] -> xpath: //select[@id='id_state']]
+2021-12-28 22:12:162 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (a399f2d96c1e5231d7533733a7253bc9)] -> xpath: //input[@id='postcode']]
+2021-12-28 22:12:273 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (a399f2d96c1e5231d7533733a7253bc9)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 22:12:259 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (a290da2c956b15cae977b034624a9f53)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:517 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (929480f7655c72989d23a7a92e69d7a9)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:113 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 22:12:261 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (929480f7655c72989d23a7a92e69d7a9)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 22:12:644 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (929480f7655c72989d23a7a92e69d7a9)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 22:12:757 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (929480f7655c72989d23a7a92e69d7a9)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 22:12:849 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (929480f7655c72989d23a7a92e69d7a9)] -> xpath: //input[@id='passwd']]
+2021-12-28 22:12:966 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (929480f7655c72989d23a7a92e69d7a9)] -> xpath: //input[@id='address1']]
+2021-12-28 22:12:93 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (929480f7655c72989d23a7a92e69d7a9)] -> xpath: //input[@id='city']]
+2021-12-28 22:12:296 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (929480f7655c72989d23a7a92e69d7a9)] -> xpath: //select[@id='id_state']]
+2021-12-28 22:12:416 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (929480f7655c72989d23a7a92e69d7a9)] -> xpath: //input[@id='postcode']]
+2021-12-28 22:12:524 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (929480f7655c72989d23a7a92e69d7a9)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 22:12:90 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (beea71079bbd8ac7bae0e884ba3559a6)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:749 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (59dd8b7d0d6f6653625a6e3ebaade7f5)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:58 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-28 22:12:205 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (59dd8b7d0d6f6653625a6e3ebaade7f5)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-28 22:12:542 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (59dd8b7d0d6f6653625a6e3ebaade7f5)] -> xpath: //input[@id='customer_firstname']]
+2021-12-28 22:12:660 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (59dd8b7d0d6f6653625a6e3ebaade7f5)] -> xpath: //input[@id='customer_lastname']]
+2021-12-28 22:12:748 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (59dd8b7d0d6f6653625a6e3ebaade7f5)] -> xpath: //input[@id='passwd']]
+2021-12-28 22:12:948 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (59dd8b7d0d6f6653625a6e3ebaade7f5)] -> xpath: //input[@id='address1']]
+2021-12-28 22:12:92 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (59dd8b7d0d6f6653625a6e3ebaade7f5)] -> xpath: //input[@id='city']]
+2021-12-28 22:12:262 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (59dd8b7d0d6f6653625a6e3ebaade7f5)] -> xpath: //select[@id='id_state']]
+2021-12-28 22:12:376 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (59dd8b7d0d6f6653625a6e3ebaade7f5)] -> xpath: //input[@id='postcode']]
+2021-12-28 22:12:471 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (59dd8b7d0d6f6653625a6e3ebaade7f5)] -> xpath: //input[@id='phone_mobile']]
+2021-12-28 22:12:131 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (baebfd862fc97d74a0eb041692a66cd8)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:12 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (c193a2c47dd401317efac2c54d056262)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:823 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (c63db68dcb59e6b81da4e6bbf8f459c9)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:751 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (dcfc239d91adf30d4ae7515ac2a4b436)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:102 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (607ceddcec216d350a031a726ce80a46)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:588 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (06df678708d7bc176a8867787bd4f79d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 22:12:50 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (b7592a33e8ecca574b85942b82ce198c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:464 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (00e2298f7208d7e91aa2163c385d70db)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:838 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (3bee15c39f523e240229227952d81c90)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:181 INFO  HomePage :56 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (d8dfa8ab3ff8e73208a26e0f8b6761d2)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:735 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (4be91a8925bc5263de42f78f68b80b4b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:842 WARN  HashedWheelTimer :672 - An exception was thrown by TimerTask.
+java.lang.IllegalStateException: cannot be started once stopped
+	at io.netty.util.HashedWheelTimer.start(HashedWheelTimer.java:338)
+	at io.netty.util.HashedWheelTimer.newTimeout(HashedWheelTimer.java:413)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.scheduleNewIdleChannelDetector(DefaultChannelPool.java:95)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool.access$900(DefaultChannelPool.java:43)
+	at org.asynchttpclient.netty.channel.DefaultChannelPool$IdleChannelDetector.run(DefaultChannelPool.java:378)
+	at io.netty.util.HashedWheelTimer$HashedWheelTimeout.expire(HashedWheelTimer.java:669)
+	at io.netty.util.HashedWheelTimer$HashedWheelBucket.expireTimeouts(HashedWheelTimer.java:744)
+	at io.netty.util.HashedWheelTimer$Worker.run(HashedWheelTimer.java:469)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.lang.Thread.run(Thread.java:745)
+2021-12-28 23:12:390 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (26a8bb6e923c6565197215907106f570)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:556 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (80ca7ed32791e5ab291aed03ab026f54)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:256 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (596076ce4a62249ce1d9d968ff0a9911)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:327 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (77b11fc278121b346026d361cada0169)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:689 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (4da744f326ae8ac784012628f353a5bb)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:641 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (e682a09e53159321e53839b98d5250cb)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:864 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (03918e5fd3b3b9046e0c6209a8b7b0e3)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:700 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (00f084f91be67d0e32aedd2c35124a0f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:161 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (6fe9d649a6a26199329a5268a56c4e58)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:774 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (8934c82fa4867a0d37ca2691f5395662)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:117 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (89014ce73a4af75986e0b7c81c3ec654)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-28 23:12:202 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (9a78947a62078dd13cdc29e790ceff3b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:156 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (9fc0439932eb8bdf79503c18976cbb9c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:581 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (43fee7cff6117c51da2f53b8f6ff820d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:853 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (52c2bdbbc52e9dc21e70ec2524d5f2f3)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:434 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (0c4632990a0a1521bb9c5cd21706bf1c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:527 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (c86a706e345ff45b78942db9dfbc38ff)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:58 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (6dbc4bde559927ae2b8727a05b434132)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:652 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (1851ac27b829393e19d7e119369c7d0a)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:673 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (2612705763518621f662d0b797344dbe)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:983 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (b8d964bf81e1c3357ed2a7e1a1cf0fff)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:715 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (38ac27e6673560b5eaf3769b1421818e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:616 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (149c4bf761cc0b3a7fbf0a4e25ebc5d5)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:936 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (a6f31c43a15edd32040772b84a9bf625)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:136 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (9ffd625c6fed67f55afadc9377dc4907)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:571 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (cd8e458b362dd42d1208b0146ab61bd5)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:467 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (50e7ee24711811cccdbd5c795788ff2e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:43 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (a4f14e92bcf338bb328227a9afe9021b)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 00:12:675 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (293b242edf25b8d7ad072bdd88bc432d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:81 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (21e6e80c9be5d35d187949350302e74e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:937 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (78ab3f3259156fa5c5163b41b7e4e554)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:769 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (29e9437bb09bae05d8a7570dab2c87b4)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:211 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (b3f504ad67ac4748300eeb776a25d9cc)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:92 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (02e8f4aeec607b7a95cce711c579918a)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:318 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (c1a5a1d049825d4b229d2488ff3c13b1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:820 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (588c6bf019350a3324947601ba8412d7)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:21 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (b878539e547edeabd94a36450b65356a)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:757 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (25b7abeeb71d543dd145f6343d4fdca2)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:487 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (260f2d4bc1b366d54c8f407f6f30e93d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:750 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (db73020d0e1653b827f64c81f85f71d0)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:77 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (9f2162f5c0704e9043284bbe02f71a56)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 01:12:194 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (096e5e64840ae31c6f8caa1b64dace63)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 02:12:561 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (fb717cf3ebd09bfd4edf3ded11e4033d)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 09:12:118 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (bea2cde1ebb8bb5136ec6987e9ca8a17)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 09:12:370 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (1b12ac01421d4f97bb4a0486528ca1e4)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 09:12:453 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (9ae9e15cacb59ca40655f4cc7b6f606e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 09:12:202 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (901e25675f5cb3f9b30fbf490163b812)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 09:12:395 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (e70ba266ba623da0934252b57d5da0b1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 09:12:738 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (232b626c3ada6b6cf95fe4d23f3dd7db)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 09:12:184 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (48bad09adb2051740598f5cc60c595f9)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 10:12:685 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (96bf87bb942f3d8322473a56ae61d1bc)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 10:12:427 INFO  AuthenticationPage :42 - entering email : <br>
+2021-12-29 10:12:569 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (96bf87bb942f3d8322473a56ae61d1bc)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-29 10:12:997 INFO  CreateAccountPage :62 - Entering firstname[[ChromeDriver: chrome on WINDOWS (96bf87bb942f3d8322473a56ae61d1bc)] -> xpath: //input[@id='customer_firstname']]
+2021-12-29 10:12:110 INFO  CreateAccountPage :64 - Entering lastname[[ChromeDriver: chrome on WINDOWS (96bf87bb942f3d8322473a56ae61d1bc)] -> xpath: //input[@id='customer_lastname']]
+2021-12-29 10:12:196 INFO  CreateAccountPage :66 - Entering password[[ChromeDriver: chrome on WINDOWS (96bf87bb942f3d8322473a56ae61d1bc)] -> xpath: //input[@id='passwd']]
+2021-12-29 10:12:310 INFO  CreateAccountPage :68 - Entering address[[ChromeDriver: chrome on WINDOWS (96bf87bb942f3d8322473a56ae61d1bc)] -> xpath: //input[@id='address1']]
+2021-12-29 10:12:462 INFO  CreateAccountPage :70 - Entering city[[ChromeDriver: chrome on WINDOWS (96bf87bb942f3d8322473a56ae61d1bc)] -> xpath: //input[@id='city']]
+2021-12-29 10:12:732 INFO  CreateAccountPage :72 - Selecting the state[[ChromeDriver: chrome on WINDOWS (96bf87bb942f3d8322473a56ae61d1bc)] -> xpath: //select[@id='id_state']]
+2021-12-29 10:12:865 INFO  CreateAccountPage :74 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (96bf87bb942f3d8322473a56ae61d1bc)] -> xpath: //input[@id='postcode']]
+2021-12-29 10:12:949 INFO  CreateAccountPage :76 - Entering contact number[[ChromeDriver: chrome on WINDOWS (96bf87bb942f3d8322473a56ae61d1bc)] -> xpath: //input[@id='phone_mobile']]
+2021-12-29 10:12:406 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (16c504f099b50c98b595914a58fd6846)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 10:12:594 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (6480737e325a017621f305d73b541ec1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 10:12:797 INFO  HomePage :60 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (cbaa593f0e31de062a5d2c6068b82db7)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 10:12:702 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (823459753ff90957d9caa9ca72770486)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 10:12:12 INFO  AuthenticationPage :42 - entering email : abcd1234987@gmail.com<br>
+2021-12-29 10:12:152 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (823459753ff90957d9caa9ca72770486)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-29 10:12:64 INFO  CreateAccountPage :48 - Entering firstname[[ChromeDriver: chrome on WINDOWS (823459753ff90957d9caa9ca72770486)] -> xpath: //input[@id='customer_firstname']]
+2021-12-29 10:12:178 INFO  CreateAccountPage :50 - Entering lastname[[ChromeDriver: chrome on WINDOWS (823459753ff90957d9caa9ca72770486)] -> xpath: //input[@id='customer_lastname']]
+2021-12-29 10:12:276 INFO  CreateAccountPage :52 - Entering password[[ChromeDriver: chrome on WINDOWS (823459753ff90957d9caa9ca72770486)] -> xpath: //input[@id='passwd']]
+2021-12-29 10:12:380 INFO  CreateAccountPage :54 - Entering address[[ChromeDriver: chrome on WINDOWS (823459753ff90957d9caa9ca72770486)] -> xpath: //input[@id='address1']]
+2021-12-29 10:12:532 INFO  CreateAccountPage :56 - Entering city[[ChromeDriver: chrome on WINDOWS (823459753ff90957d9caa9ca72770486)] -> xpath: //input[@id='city']]
+2021-12-29 10:12:700 INFO  CreateAccountPage :58 - Selecting the state[[ChromeDriver: chrome on WINDOWS (823459753ff90957d9caa9ca72770486)] -> xpath: //select[@id='id_state']]
+2021-12-29 10:12:822 INFO  CreateAccountPage :60 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (823459753ff90957d9caa9ca72770486)] -> xpath: //input[@id='postcode']]
+2021-12-29 10:12:916 INFO  CreateAccountPage :62 - Entering contact number[[ChromeDriver: chrome on WINDOWS (823459753ff90957d9caa9ca72770486)] -> xpath: //input[@id='phone_mobile']]
+2021-12-29 10:12:916 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ba4611f078bc0c57731440f7d3015dc4)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 10:12:172 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 10:12:831 INFO  MyAccountPage :35 - clicking on my addresses : [[ChromeDriver: chrome on WINDOWS (ba4611f078bc0c57731440f7d3015dc4)] -> xpath: //a[@title='Addresses']]<br>
+2021-12-29 10:12:781 INFO  MyAddressesPage :25 - verifying my address : <br>
+2021-12-29 10:12:614 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 10:12:467 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 10:12:561 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 10:12:272 INFO  HomePage :42 - selecting an item from main menu : Dresses<br>
+2021-12-29 10:12:451 INFO  HomePage :57 - selecting an item from inner menu : CASUAL DRESSES<br>
+2021-12-29 10:12:801 INFO  ProductPage :38 - selecting an item from menu : Printed Dress<br>
+2021-12-29 10:12:809 INFO  ProductPage :53 - selecting quantity : 2<br>
+2021-12-29 10:12:927 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 10:12:07 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 10:12:312 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 10:12:826 INFO  HomePage :42 - selecting an item from main menu : Women<br>
+2021-12-29 10:12:959 INFO  HomePage :57 - selecting an item from inner menu : TOPS<br>
+2021-12-29 10:12:274 INFO  ProductPage :44 - selecting an item from menu : Faded Short Sleeve T-shirts<br>
+2021-12-29 10:12:277 INFO  ProductPage :53 - selecting quantity : 3<br>
+2021-12-29 10:12:393 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 10:12:456 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 10:12:167 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-29 10:12:902 INFO  ShoppingCartPage :87 - verifying product name : Printed Dress<br>
+2021-12-29 10:12:970 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_3<br>
+2021-12-29 10:12:35 INFO  ShoppingCartPage :101 - verifying product quantity : 2<br>
+2021-12-29 10:12:52 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-29 10:12:790 INFO  ShoppingCartPage :87 - verifying product name : Faded Short Sleeve T-shirts<br>
+2021-12-29 10:12:839 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_1<br>
+2021-12-29 10:12:908 INFO  ShoppingCartPage :101 - verifying product quantity : 3<br>
+2021-12-29 10:12:920 INFO  ShoppingCartPage :106 - click on checkout button : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //a[@class='button btn btn-default standard-checkout button-medium']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 10:12:428 INFO  ShoppingCartPage :111 - click on checkout button on address page : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //button[@name='processAddress']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 10:12:79 INFO  ShoppingCartPage :116 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> id: uniform-cgv]<br>
+2021-12-29 10:12:153 INFO  ShoppingCartPage :121 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //button[@name='processCarrier']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 10:12:745 INFO  ShoppingCartPage :126 - click on pay by check button : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //div[@id='HOOK_PAYMENT']//p//a[1][contains(.,'Pay by check (order processing will be longer)')]]<br>
+2021-12-29 10:12:641 INFO  ShoppingCartPage :131 - click on confirm my order : [[ChromeDriver: chrome on WINDOWS (2344dac47e9dc177a7bc6c803e0a82e0)] -> xpath: //span[normalize-space()='I confirm my order']]<br>
+2021-12-29 10:12:103 INFO  ShoppingCartPage :136 - verifying the order is completed : Your order on My Store is complete.<br>
+2021-12-29 10:12:663 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (7771d9272abf8b682b3a550644c28a8f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 10:12:02 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 10:12:640 INFO  MyAccountPage :48 - selecting an item from information footer menu : Contact us<br>
+2021-12-29 10:12:642 INFO  MyAccountPage :40 - verifying contact page text : CUSTOMER SERVICE - CONTACT US<br>
+2021-12-29 10:12:686 INFO  ContactPage :45 - choose a subject heading : Customer service<br>
+2021-12-29 10:12:777 INFO  ContactPage :50 - choose a order reference : <br>
+2021-12-29 10:12:891 INFO  ContactPage :55 - choose a product : <br>
+2021-12-29 10:12:981 INFO  ContactPage :61 - attach a file : <br>
+2021-12-29 10:12:31 INFO  ContactPage :66 - input refund message : Please process a refund<br>
+2021-12-29 10:12:127 INFO  ContactPage :71 - click on send button : [[ChromeDriver: chrome on WINDOWS (7771d9272abf8b682b3a550644c28a8f)] -> xpath: //button[@id='submitMessage']]<br>
