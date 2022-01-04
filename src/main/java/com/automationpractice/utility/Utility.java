@@ -57,8 +57,7 @@ public class Utility extends ManageDriver {
     }
 
     /**
-     * This method will find the element and clear all the data from it
-     *
+     * This method will find the element and clear all the data from it     *
      * @param by
      */
     public void doFindElementAndClearText(By by) {
@@ -71,8 +70,7 @@ public class Utility extends ManageDriver {
     }
 
     /**
-     * This method will extract the value of a particular attribute from an element
-     *
+     * This method will extract the value of a particular attribute from an element     *
      * @param by
      * @param attribute
      * @return

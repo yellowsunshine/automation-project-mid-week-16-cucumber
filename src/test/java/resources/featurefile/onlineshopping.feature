@@ -43,6 +43,21 @@ Feature: SignUp, Sign In and Purchase Product
     Then I shall be able to Buy the product
     And I shall be able to Buy using cheque payment
 
+  @Postman
+  Scenario: TC-003 Add product to Online Cart and checkout using Maps
+    Given I am on the Sign In Page
+    When Login using newly create credentials
+    And I add below product to cart using List of List of Strings
+      | category | subCategory    | name                        | model  | quantity |
+      | Dresses  | CASUAL DRESSES | Printed Dress               | demo_3 | 2        |
+      | Women    | TOPS           | Faded Short Sleeve T-shirts | demo_1 | 3        |
+    Then I shall validate shopping cart as below using List of List of Strings
+      | name                        | model        | quantity |
+      | Printed Dress               | SKU : demo_3 | 2        |
+      | Faded Short Sleeve T-shirts | SKU : demo_1 | 3        |
+    Then I shall be able to Buy the product
+    And I shall be able to Buy using cheque payment
+
   @Regression
   Scenario: TC-004 Contact customer service for the previous successful order
     Given I am on the Sign In Page

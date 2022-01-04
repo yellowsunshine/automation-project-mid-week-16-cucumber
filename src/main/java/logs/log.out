@@ -441,3 +441,181 @@ java.lang.IllegalStateException: cannot be started once stopped
 2021-12-29 15:12:970 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (cb83bf214e502c01c520f23902adb829)] -> xpath: //a[normalize-space()='Sign in']]
 2021-12-29 15:12:972 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
 2021-12-29 15:12:248 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 17:12:333 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 17:12:728 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 17:12:292 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 17:12:465 INFO  HomePage :42 - selecting an item from main menu : Dresses<br>
+2021-12-29 17:12:460 INFO  HomePage :57 - selecting an item from inner menu : CASUAL DRESSES<br>
+2021-12-29 17:12:937 INFO  ProductPage :38 - selecting an item from menu : Printed Dress<br>
+2021-12-29 17:12:939 INFO  ProductPage :53 - selecting quantity : 2<br>
+2021-12-29 17:12:54 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 17:12:135 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 17:12:224 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-29 17:12:601 INFO  HomePage :42 - selecting an item from main menu : Women<br>
+2021-12-29 17:12:895 INFO  HomePage :57 - selecting an item from inner menu : TOPS<br>
+2021-12-29 17:12:231 INFO  ProductPage :44 - selecting an item from menu : Faded Short Sleeve T-shirts<br>
+2021-12-29 17:12:236 INFO  ProductPage :53 - selecting quantity : 3<br>
+2021-12-29 17:12:345 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-29 17:12:403 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-29 17:12:971 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-29 17:12:446 INFO  ShoppingCartPage :87 - verifying product name : Printed Dress<br>
+2021-12-29 17:12:497 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_3<br>
+2021-12-29 17:12:581 INFO  ShoppingCartPage :101 - verifying product quantity : 2<br>
+2021-12-29 17:12:607 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-29 17:12:03 INFO  ShoppingCartPage :87 - verifying product name : Faded Short Sleeve T-shirts<br>
+2021-12-29 17:12:54 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_1<br>
+2021-12-29 17:12:127 INFO  ShoppingCartPage :101 - verifying product quantity : 3<br>
+2021-12-29 17:12:145 INFO  ShoppingCartPage :106 - click on checkout button : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //a[@class='button btn btn-default standard-checkout button-medium']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 17:12:538 INFO  ShoppingCartPage :111 - click on checkout button on address page : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //button[@name='processAddress']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 17:12:719 INFO  ShoppingCartPage :116 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> id: uniform-cgv]<br>
+2021-12-29 17:12:797 INFO  ShoppingCartPage :121 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //button[@name='processCarrier']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-29 17:12:711 INFO  ShoppingCartPage :126 - click on pay by check button : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //div[@id='HOOK_PAYMENT']//p//a[1][contains(.,'Pay by check (order processing will be longer)')]]<br>
+2021-12-29 17:12:889 INFO  ShoppingCartPage :131 - click on confirm my order : [[ChromeDriver: chrome on WINDOWS (7805f5d872aae2ad1958eca726e641a6)] -> xpath: //span[normalize-space()='I confirm my order']]<br>
+2021-12-29 17:12:195 INFO  ShoppingCartPage :136 - verifying the order is completed : Your order on My Store is complete.<br>
+2021-12-29 17:12:820 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (529499cddf7df059312cb792e8713467)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-29 17:12:332 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-29 17:12:851 INFO  MyAccountPage :48 - selecting an item from information footer menu : Contact us<br>
+2021-12-29 17:12:854 INFO  MyAccountPage :40 - verifying contact page text : CUSTOMER SERVICE - CONTACT US<br>
+2021-12-29 17:12:898 INFO  ContactPage :45 - choose a subject heading : Customer service<br>
+2021-12-29 17:12:973 INFO  ContactPage :50 - choose a order reference : <br>
+2021-12-29 17:12:83 INFO  ContactPage :55 - choose a product : <br>
+2021-12-29 17:12:163 INFO  ContactPage :61 - attach a file : <br>
+2021-12-29 17:12:203 INFO  ContactPage :66 - input refund message : Please process a refund<br>
+2021-12-29 17:12:297 INFO  ContactPage :71 - click on send button : [[ChromeDriver: chrome on WINDOWS (529499cddf7df059312cb792e8713467)] -> xpath: //button[@id='submitMessage']]<br>
+2021-12-30 13:12:388 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (3fdacc1172374fec5cb7723ae84f922f)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 13:12:638 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 13:12:670 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ada65f5aeab1aa5f4c5dacb716fa7b4c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 13:12:924 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 13:12:252 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (dd0798d5d75dffa775ba90cfc94fd678)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 13:12:212 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 13:12:854 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (5f72ab48f6aad5ac530762fea17f3745)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 13:12:788 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 13:12:887 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (7f317b39a97a87cc3091b8a28768c386)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 13:12:873 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 13:12:761 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (7bcd9918c837e83691c202e6c39089ac)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 13:12:327 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 13:12:455 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (afcef63b1e583a64c517980bbf6c2eab)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 13:12:710 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:887 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (61692bd44ee69353d2eac34849e72b37)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:714 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:705 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (bef163caeedf0282b31eeb45bb977678)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:141 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:590 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (097acdeda70045282368f27c01ec0fc4)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:394 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:416 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (a7795d8c1887081167353c06b5a1bf3c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:808 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:993 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (89a812f6e2543cd1ba6d44388e6cf7a8)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:591 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:937 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (d2cbb5ab76d3aa8fd977a24e139d0f88)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:660 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:467 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (1436b259e74eb31dd0df125fc99036e7)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:268 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:19 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (e5474f08dd25fd81a635244ae2f0fce1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:855 INFO  AuthenticationPage :42 - entering email : abcd1234987@gmail.com<br>
+2021-12-30 16:12:02 INFO  AuthenticationPage :47 - Click on the create an account tab : [[ChromeDriver: chrome on WINDOWS (e5474f08dd25fd81a635244ae2f0fce1)] -> xpath: //span[normalize-space()='Create an account']]<br>
+2021-12-30 16:12:612 INFO  CreateAccountPage :48 - Entering firstname[[ChromeDriver: chrome on WINDOWS (e5474f08dd25fd81a635244ae2f0fce1)] -> xpath: //input[@id='customer_firstname']]
+2021-12-30 16:12:695 INFO  CreateAccountPage :50 - Entering lastname[[ChromeDriver: chrome on WINDOWS (e5474f08dd25fd81a635244ae2f0fce1)] -> xpath: //input[@id='customer_lastname']]
+2021-12-30 16:12:773 INFO  CreateAccountPage :52 - Entering password[[ChromeDriver: chrome on WINDOWS (e5474f08dd25fd81a635244ae2f0fce1)] -> xpath: //input[@id='passwd']]
+2021-12-30 16:12:869 INFO  CreateAccountPage :54 - Entering address[[ChromeDriver: chrome on WINDOWS (e5474f08dd25fd81a635244ae2f0fce1)] -> xpath: //input[@id='address1']]
+2021-12-30 16:12:974 INFO  CreateAccountPage :56 - Entering city[[ChromeDriver: chrome on WINDOWS (e5474f08dd25fd81a635244ae2f0fce1)] -> xpath: //input[@id='city']]
+2021-12-30 16:12:63 INFO  CreateAccountPage :58 - Selecting the state[[ChromeDriver: chrome on WINDOWS (e5474f08dd25fd81a635244ae2f0fce1)] -> xpath: //select[@id='id_state']]
+2021-12-30 16:12:298 INFO  CreateAccountPage :60 - Entering postalcode[[ChromeDriver: chrome on WINDOWS (e5474f08dd25fd81a635244ae2f0fce1)] -> xpath: //input[@id='postcode']]
+2021-12-30 16:12:390 INFO  CreateAccountPage :62 - Entering contact number[[ChromeDriver: chrome on WINDOWS (e5474f08dd25fd81a635244ae2f0fce1)] -> xpath: //input[@id='phone_mobile']]
+2021-12-30 16:12:917 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (9d5f87346b02837472c0c7be0a7f76c2)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:702 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:738 INFO  MyAccountPage :35 - clicking on my addresses : [[ChromeDriver: chrome on WINDOWS (9d5f87346b02837472c0c7be0a7f76c2)] -> xpath: //a[@title='Addresses']]<br>
+2021-12-30 16:12:861 INFO  MyAddressesPage :25 - verifying my address : <br>
+2021-12-30 16:12:434 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:210 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:829 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-30 16:12:705 INFO  HomePage :42 - selecting an item from main menu : Dresses<br>
+2021-12-30 16:12:848 INFO  HomePage :57 - selecting an item from inner menu : CASUAL DRESSES<br>
+2021-12-30 16:12:318 INFO  ProductPage :38 - selecting an item from menu : Printed Dress<br>
+2021-12-30 16:12:328 INFO  ProductPage :53 - selecting quantity : 2<br>
+2021-12-30 16:12:447 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-30 16:12:536 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-30 16:12:462 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-30 16:12:341 INFO  HomePage :42 - selecting an item from main menu : Women<br>
+2021-12-30 16:12:137 INFO  HomePage :57 - selecting an item from inner menu : TOPS<br>
+2021-12-30 16:12:515 INFO  ProductPage :44 - selecting an item from menu : Faded Short Sleeve T-shirts<br>
+2021-12-30 16:12:519 INFO  ProductPage :53 - selecting quantity : 3<br>
+2021-12-30 16:12:629 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-30 16:12:700 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-30 16:12:214 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-30 16:12:884 INFO  ShoppingCartPage :87 - verifying product name : Printed Dress<br>
+2021-12-30 16:12:921 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_3<br>
+2021-12-30 16:12:04 INFO  ShoppingCartPage :101 - verifying product quantity : 2<br>
+2021-12-30 16:12:44 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-30 16:12:117 INFO  ShoppingCartPage :87 - verifying product name : Faded Short Sleeve T-shirts<br>
+2021-12-30 16:12:179 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_1<br>
+2021-12-30 16:12:251 INFO  ShoppingCartPage :101 - verifying product quantity : 3<br>
+2021-12-30 16:12:267 INFO  ShoppingCartPage :106 - click on checkout button : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //a[@class='button btn btn-default standard-checkout button-medium']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-30 16:12:994 INFO  ShoppingCartPage :111 - click on checkout button on address page : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //button[@name='processAddress']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-30 16:12:82 INFO  ShoppingCartPage :116 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> id: uniform-cgv]<br>
+2021-12-30 16:12:158 INFO  ShoppingCartPage :121 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //button[@name='processCarrier']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-30 16:12:551 INFO  ShoppingCartPage :126 - click on pay by check button : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //div[@id='HOOK_PAYMENT']//p//a[1][contains(.,'Pay by check (order processing will be longer)')]]<br>
+2021-12-30 16:12:497 INFO  ShoppingCartPage :131 - click on confirm my order : [[ChromeDriver: chrome on WINDOWS (0883d4a195d7cbcab97cf43105fa39f1)] -> xpath: //span[normalize-space()='I confirm my order']]<br>
+2021-12-30 16:12:921 INFO  ShoppingCartPage :136 - verifying the order is completed : Your order on My Store is complete.<br>
+2021-12-30 16:12:924 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:469 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:304 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-30 16:12:790 INFO  HomePage :42 - selecting an item from main menu : Dresses<br>
+2021-12-30 16:12:532 INFO  HomePage :57 - selecting an item from inner menu : CASUAL DRESSES<br>
+2021-12-30 16:12:526 INFO  ProductPage :38 - selecting an item from menu : Printed Dress<br>
+2021-12-30 16:12:530 INFO  ProductPage :53 - selecting quantity : 2<br>
+2021-12-30 16:12:634 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-30 16:12:699 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-30 16:12:258 INFO  HomePage :49 - navigating back to home page : <br>
+2021-12-30 16:12:254 INFO  HomePage :42 - selecting an item from main menu : Women<br>
+2021-12-30 16:12:273 INFO  HomePage :57 - selecting an item from inner menu : TOPS<br>
+2021-12-30 16:12:564 INFO  ProductPage :44 - selecting an item from menu : Faded Short Sleeve T-shirts<br>
+2021-12-30 16:12:569 INFO  ProductPage :53 - selecting quantity : 3<br>
+2021-12-30 16:12:693 INFO  SummerDressesPage :26 - click on add to cart : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //span[contains(text(),'Add to cart')]]<br>
+2021-12-30 16:12:746 INFO  ShoppingCartPage :73 - clicking on continue shopping button : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //span[@title='Continue shopping']//span[1]]<br>
+2021-12-30 16:12:922 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-30 16:12:04 INFO  ShoppingCartPage :87 - verifying product name : Printed Dress<br>
+2021-12-30 16:12:71 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_3<br>
+2021-12-30 16:12:137 INFO  ShoppingCartPage :101 - verifying product quantity : 2<br>
+2021-12-30 16:12:162 INFO  ShoppingCartPage :78 - clicking on shopping cart logo : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //a[@title='View my shopping cart']]<br>
+2021-12-30 16:12:683 INFO  ShoppingCartPage :87 - verifying product name : Faded Short Sleeve T-shirts<br>
+2021-12-30 16:12:757 INFO  ShoppingCartPage :94 - verifying product SKU : SKU : demo_1<br>
+2021-12-30 16:12:816 INFO  ShoppingCartPage :101 - verifying product quantity : 3<br>
+2021-12-30 16:12:841 INFO  ShoppingCartPage :106 - click on checkout button : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //a[@class='button btn btn-default standard-checkout button-medium']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-30 16:12:45 INFO  ShoppingCartPage :111 - click on checkout button on address page : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //button[@name='processAddress']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-30 16:12:111 INFO  ShoppingCartPage :116 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> id: uniform-cgv]<br>
+2021-12-30 16:12:177 INFO  ShoppingCartPage :121 - click on checkout button on shipping page : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //button[@name='processCarrier']//span[contains(text(),'Proceed to checkout')]]<br>
+2021-12-30 16:12:663 INFO  ShoppingCartPage :126 - click on pay by check button : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //div[@id='HOOK_PAYMENT']//p//a[1][contains(.,'Pay by check (order processing will be longer)')]]<br>
+2021-12-30 16:12:619 INFO  ShoppingCartPage :131 - click on confirm my order : [[ChromeDriver: chrome on WINDOWS (d3904a2a3ee805c310eea9773ab8b09c)] -> xpath: //span[normalize-space()='I confirm my order']]<br>
+2021-12-30 16:12:505 INFO  ShoppingCartPage :136 - verifying the order is completed : Your order on My Store is complete.<br>
+2021-12-30 16:12:221 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (dc053be6e973f5ea8c64819522c4c669)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 16:12:896 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 16:12:161 INFO  MyAccountPage :48 - selecting an item from information footer menu : Contact us<br>
+2021-12-30 16:12:166 INFO  MyAccountPage :40 - verifying contact page text : CUSTOMER SERVICE - CONTACT US<br>
+2021-12-30 16:12:203 INFO  ContactPage :45 - choose a subject heading : Customer service<br>
+2021-12-30 16:12:276 INFO  ContactPage :50 - choose a order reference : <br>
+2021-12-30 16:12:388 INFO  ContactPage :55 - choose a product : <br>
+2021-12-30 16:12:479 INFO  ContactPage :61 - attach a file : <br>
+2021-12-30 16:12:525 INFO  ContactPage :66 - input refund message : Please process a refund<br>
+2021-12-30 16:12:633 INFO  ContactPage :71 - click on send button : [[ChromeDriver: chrome on WINDOWS (dc053be6e973f5ea8c64819522c4c669)] -> xpath: //button[@id='submitMessage']]<br>
+2021-12-30 21:12:804 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (78ba1228fdc3f421c658e35cfb34ae82)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 21:12:876 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 21:12:499 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (e2aba3dd29fa9d144195211699476105)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 21:12:209 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 21:12:361 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (10ea117cc9077d72f2ea27abbb6fabdd)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 21:12:05 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 21:12:12 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (b9e7cdda50d45f5edd3ce090ecb5d66e)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 21:12:138 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 21:12:300 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (c3818ef773b65992fb91ba431c6171ac)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 21:12:650 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 21:12:112 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (3c5b4218a9d3d9b6ddbf2a65b6d238f2)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 21:12:930 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 21:12:174 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (4c48fd24b5ee87f2dd9f15a2babf03a8)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 21:12:939 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 21:12:621 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (ff23e164587bc1360205b30bec6298aa)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 21:12:160 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 21:12:122 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (041f3ace3a742846f438d7612464f916)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 21:12:434 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 21:12:627 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (998437c3fc5ea5eadb26aaf87939d934)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 21:12:181 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
+2021-12-30 22:12:487 INFO  HomePage :63 - clicking on sign in button : [[ChromeDriver: chrome on WINDOWS (244b48db6aaba0ba7222446697b2c91c)] -> xpath: //a[normalize-space()='Sign in']]
+2021-12-30 22:12:187 INFO  AuthenticationPage :52 - loggin in : prime@gmail.com<br>
